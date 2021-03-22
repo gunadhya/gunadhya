@@ -4,6 +4,7 @@
 - 🔭 I’m currently looking for work.
 - 💬 Ask me anything
 - 📫 How to reach me: https://www.linkedin.com/in/gunadhya/
+- 😀 Also I built my site using hugo check it out.
 - ⚡ Fun fact: I've been using ubuntu since 2012.
 
 
