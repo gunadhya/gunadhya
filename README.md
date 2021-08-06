@@ -1,6 +1,6 @@
 ### Hello 👋👻🖖
 
-- 🌱 I’m currently learning kubernetes.
+- 🌱 I’m currently learning Kubernetes.
 - 🔭 I’m currently looking for work.
 - 💬 Ask me anything
 - 📫 How to reach me: https://www.linkedin.com/in/gunadhya/
