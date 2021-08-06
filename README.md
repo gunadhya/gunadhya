@@ -8,9 +8,9 @@
 - ⚡ Fun fact: I've been using ubuntu since 2012.
 
 ### PRs ✔
-- 🟣 https://github.com/moby/moby/pull/41897 
+- 🟣https://github.com/moby/moby/pull/41897 
 
-- 🟣 https://github.com/GoogleContainerTools/skaffold/pull/5079
+- 🟣https://github.com/GoogleContainerTools/skaffold/pull/5079
 
 - 🟣https://github.com/grpc-ecosystem/grpc-gateway/pull/1894
 
