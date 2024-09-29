@@ -1,8 +1,8 @@
 ### Hello 👋
 
 - 🧠 Software Engineer and Open Source Contributor with about 4 years of experience
-- 🛠️ Always interested in acquiring new skills and level up.
-- ☕ When I’m not writing code, you might find me sketching or drinking coffee.
+- 🛠️ Always interested in picking up new skills and leveling up.
+- ☕ When I’m not coding, you’ll probably find me sketching, sipping coffee, climbing, or jamming on my guitar.
 - 👀 Always on the lookout for new work opportunities
 - 💬 Ask me anything
 - 📫 How to reach me: https://www.linkedin.com/in/gunadhya/
