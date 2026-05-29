@@ -1,18 +1,18 @@
 ### Hello 👋
 
-- 🧠 Software Engineer and Open Source Contributor with about 4 years of experience
-- 🛠️ Always interested in picking up new skills and leveling up.
-- ☕ When I’m not coding, you’ll probably find me sketching, sipping coffee, climbing, or jamming on my guitar.
-- 👀 Always on the lookout for new work opportunities
-- 💬 Ask me anything
-- 📫 How to reach me: https://www.linkedin.com/in/gunadhya/
-- 😀 I built my site using hugo check it out.
-- ⚡ Fun fact: I've been using ubuntu since 2012.
+- Software Engineer and Open Source Contributor with about 4 years of experience
+- Always interested in picking up new skills and leveling up.
+- When I’m not coding, you’ll probably find me sketching, sipping coffee, climbing, or jamming on my guitar.
+- Always on the lookout for new work opportunities
+- Ask me anything, how to reach me: https://www.linkedin.com/in/gunadhya/
+- I built my site using hugo check it out.
+- Fun fact: I've been using ubuntu since 2012.
 
-### PRs ✔
+### PRs
 
 - Github cli:
-  - https://github.com/cli/cli/pull/2493 
+  - https://github.com/cli/cli/pull/2493
+  - https://github.com/cli/cli/pull/12651 
 - Moby/Docker:
   - https://github.com/moby/moby/pull/41897 
   - https://github.com/moby/moby/pull/41857
